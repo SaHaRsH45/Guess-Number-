@@ -49,7 +49,7 @@ open index.html
 6️⃣ Click **Restart** to play again 🔄
 
 ## 🖼 Screenshot
-![🎮 Gameplay Preview](gameplay-screenshot.png)
+![🎮 Gameplay Preview](sc.png)
 
 ## 🏆 License
 This project is open-source and free to use. 📜
