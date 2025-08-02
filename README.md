@@ -61,6 +61,6 @@ We welcome contributions! Feel free to fork the repo, submit issues, or create p
 If you like this project, please ⭐ the repository on GitHub!
 
 ## 👨‍💻 Author
-Developed by [Your Name] 🚀
+Developed by Saharsh Kumar 🚀
 
 
